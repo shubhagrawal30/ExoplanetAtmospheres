@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # ignore unzipped data files in ./bt-settl/
-./bt-settl/models_1671388423/*
+bt-settl/models_1671388423/**
